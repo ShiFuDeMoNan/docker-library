@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller@sha256:72f79471f06d096cc53e51385017c9f0f7edbc87379bf415f99d4bd11cf7bc2b
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.30.0@sha256:ecb7567431d9c2b899be7b04cd5a72722655e36fd58f69ed695e469daab9009b
 LABEL maintainer="liuhaijun_999666@163.com"

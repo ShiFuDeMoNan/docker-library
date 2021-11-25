@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook@sha256:46d5b90a7f4e9996351ad893a26bcbd27216676ad4d5316088ce351fb2c2c3dd
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.30.0@sha256:b93422365865e7b6fbe96e92cac7494626257165021fa36f71fae22bdfbd3e6e
 LABEL maintainer="liuhaijun_999666@163.com"
